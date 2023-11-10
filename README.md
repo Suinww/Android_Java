@@ -3,6 +3,12 @@
 ## Booking
 날짜, 시간 예약과 예약에 걸린시간을 체크
 
+## ContextMenu
+- 컨테스트메뉴 사용 예제
+  - UI : ConstraintLayout
+  - Android : findViewById, onCreateOptionsMenu, onOptionsItemSelected, Toast, Log.d
+  - Java : Switch, case, if
+ 
 ## Mini_diary
 캘린더에서 날짜를 선택할 수 있는데
 

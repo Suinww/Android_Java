@@ -63,12 +63,12 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.itemRotate:
                 rotation = rotation + 45;
-                btn1.setRotation(rotation);
+                btn2.setRotation(rotation);
                 return true;
 
             case R.id.itemRotate2:
                 rotation = rotation - 45;
-                btn1.setRotation(rotation);
+                btn2.setRotation(rotation);
                 return true;
 
             case R.id.itemSize:
